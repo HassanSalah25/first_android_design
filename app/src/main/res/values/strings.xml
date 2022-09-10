@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1st Design</string>
+
+    <string-array name="add">
+        <item>Select One</item>
+        <item>Minnesota</item>
+        <item>Florida</item>
+        <item>Hawaii</item>
+    </string-array>
+</resources>
